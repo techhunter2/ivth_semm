@@ -1,6 +1,6 @@
 
 //This Function is created to validate form data
-var token ="90939081|-31949318892444143|90951340"
+var token ="90939081|-31949322887174000|90950594"
 $("#ques1").focus();
 function validateAndGetFormData() {
     var ans1Var = $("#ques1").val();
@@ -193,7 +193,7 @@ function saveEmployee5() {
     jQuery.ajaxSetup({ async: true });
     resetForm();
     updateUser();
-    var url= "t6.html"; 
+    var url= "final.html"; 
     window.location = url;
 }
 function saveEmployee6() {

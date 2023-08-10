@@ -1,4 +1,4 @@
-var token ="90939081|-31949318892444143|90951340"
+var token ="90939081|-31949322887174000|90950594"
 function deleteSession() {
     var se = getJpdbSessionToken();
     jQuery.ajaxSetup({async: false});
